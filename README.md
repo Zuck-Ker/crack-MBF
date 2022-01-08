@@ -16,7 +16,7 @@ $ termux-setup-storage
 
 $ pip install mechanize requests bs4 futures
 
-$ git clone 
+$ git clone https://github.com/Zuck-Ker/crack-MBF
 
 $ cd MBF
 
