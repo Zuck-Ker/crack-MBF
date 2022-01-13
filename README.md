@@ -1,4 +1,4 @@
-# MBF Hack Facebook Terbaru [ YOCHIN ]
+# MBF Hack Facebook Terbaru [ YOSHI ]
 
 Script MBF login menggunakan cookies anti check points untuk hack akun Facebook.
 
