@@ -24,7 +24,7 @@ $ python mbf.py
 
 # FACEBOOK
 
-YOCHIN
+YOSHI
 
 # WHATSAPP
 
